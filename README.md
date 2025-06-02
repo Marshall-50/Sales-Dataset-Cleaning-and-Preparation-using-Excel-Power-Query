@@ -1,0 +1,2 @@
+# Sales-Dataset-Cleaning-and-Preparation-using-Excel-Power-Query
+This project mirrors the kind of challenges data analysts face in real business environment: inconsistent formats, invalid entries, merged fields, and non-numeric values hidden behind text.  My goal was to demonstrate not only technical proficiency, but also a logical, step-by-step approach to identifying and resolving data quality issues.
